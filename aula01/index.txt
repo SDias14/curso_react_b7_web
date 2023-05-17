@@ -1,0 +1,7 @@
+o react é uma biblioteca feita em javascript 
+
+react trabalha com o virtual dom - dom virtual é uma copia do dom real, que fica em memoria, e quando o dom virtual é alterado, ele compara com o dom real e altera apenas o que foi alterado, assim não precisando renderizar toda a pagina novamente.
+
+SPA - single page application - uma unica pagina que vai ser alterada conforme a interação do usuario
+
+ela muda de pagina dentro da mesma pagina. 

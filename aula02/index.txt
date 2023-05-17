@@ -1,0 +1,3 @@
+no react trabalhamos com um conceito de cra que é : create-react-app. (tecnica oficial)
+
+criar app : npx create-react-app nome-do-app

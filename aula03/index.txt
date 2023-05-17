@@ -1,0 +1,18 @@
+criando projetos com o vite 
+
+vite é uma biblioteca que permite criar projetos com react, vue, svelte e vanilla js de forma rápida e fácil.
+
+fazemos a instalção com npm e usando o comando init, que é o comando para iniciar um projeto com o vite.
+
+o react trabalha com componentes. o que é um componente ? é uma parte da aplicação que pode ser reutilizada em outras partes da aplicação.
+
+para criar um componente no react, precisamos criar uma função que retorna um html. essa função é chamada de função componente.
+
+
+## 2.2 - expressoes com jsx 
+
+o jsx é uma extensão do javascript que permite escrever html dentro do javascript e vice-versa.
+
+para escrever html dentro do javascript, precisamos colocar o html dentro de chaves e retornar o html.
+
+boa pratica : um componente por arquivo. 
