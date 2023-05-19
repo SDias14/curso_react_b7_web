@@ -12,7 +12,7 @@ function App () {
     //colocando html dentro do js
     <div className="App">
 
-      <Header /> {/* chamando o componente Header */} 
+      <Header title=" Configurando Props "/> {/* chamando o componente Header */} 
 
       <h1>Olá { nameToUpper }, tudo bem? </h1> 
     </div>
